@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-1{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.gradient{
+    background: linear-gradient(to bottom, #e7e7e7 7%, #fff 35%);
+}
+.flex-1-5{
+    flex : 1.5;
+}
+.sidebar-item{
+    border-bottom-right-radius: 35px;
+}
+
